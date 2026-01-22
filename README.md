@@ -32,8 +32,8 @@ Cozy Cup Cafe's Contact Infos
 
 **Email**:202380378@psu.palawan.edu.ph
 
-<a href="https://www.facebook.com/valiant.gg" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width="30" style="border-radius:50%;"> </a>
-<a href="https://github.com/valiant-11" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="30" style="border-radius:50%;"> </a>
+<a href="https://www.facebook.com/valiant.gg" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width="50" style="border-radius:50%;"> </a>
+<a href="https://github.com/valiant-11" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="50" style="border-radius:50%;"> </a>
 
 
 <img src="img/angelica.PNG" style="width: 150px; border-radius: 50%;">
@@ -42,8 +42,8 @@ Cozy Cup Cafe's Contact Infos
 
 **Email**:202380325@psu.palawan.edu.ph
 
-<a href="https://www.facebook.com/angelica.bandeii" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width="30" style="border-radius:50%;"> </a>
-<a href="https://github.com/angelica-11" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="30" style="border-radius:50%;"> </a>
+<a href="https://www.facebook.com/angelica.bandeii" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width="50" style="border-radius:50%;"> </a>
+<a href="https://github.com/angelica-11" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="50" style="border-radius:50%;"> </a>
 
 
 
