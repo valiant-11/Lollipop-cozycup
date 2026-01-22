@@ -26,7 +26,7 @@ Cozy Cup Cafe's Contact Infos
 
 # About the Authors
 
-<img src="img/valiant.PNG" width="150" style="border-radius: 50%;">
+<img src="img/valiant.jpg" width="150" style="border-radius: 50%;">
 
 **Name**:Jun Mark Brilliantes
 
@@ -36,7 +36,7 @@ Cozy Cup Cafe's Contact Infos
 <a href="https://github.com/valiant-11" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="50" style="border-radius:50%;"> </a>
 
 
-<img src="img/angelica.PNG" width="150" style="border-radius: 50%;">
+<img src="img/angelica.jpg" width="150" style="border-radius: 50%;">
 
 **Name**:Angelica Bande
 
