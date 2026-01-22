@@ -1,22 +1,49 @@
 # Project Description
-A warm, inviting café where comfort meets great taste. With its relaxed atmosphere, soft lighting, and the aroma of freshly brewed coffee, it’s the perfect spot to unwind, catch up with friends, or enjoy a quiet moment alone, one cozy cup at a time.
+Cozy Cup Cafe provides visitors with an easy way to explore our menu, learn about our story, view photos of our cozy space, place orders online, and get in touch or book a table, all in a user-friendly and visually inviting design.
 # Features
-• Cozy and comfortable place to study or relax
+• Home: Welcoming page with hero image, tagline, and call-to-action.
 
-• Affordable drinks and snacks
+• About Us: Brief story and philosophy of the café with photos.
 
-• Free Wi-Fi for schoolwork and browsing
+• Menu: List of food and drinks with descriptions, prices, and optional images.
 
-• Friendly staff and chill atmosphere
+• Contact/Location: Address, map, phone, email, business hours, and social links.
 
-• Enough seating for individuals or groups
+• Online Ordering: Simple interface or link for pickup/delivery with payment options.
 
-• Clean and organized space
+• Gallery: Photos of the café, drinks, and food.
 
-• Background music that’s not too loud
-
-• Accessible location near schools or public areas
 
 # Screen Captures
+Cozy Cup Cafe's Landing Page
+![Home](img/Screenshot1.PNG)
+Cozy Cup Cafe's Menu (We don't have any serving YET!!)
+![Menu](img/Screenshot2.PNG)
+Cozy Cup Cafe's Creators
+![AboutUs](img/Screenshot3.PNG)
+Cozy Cup Cafe's Contact Infos
+![Feedback](img/Screenshot4.PNG)
 
 # About the Authors
+
+<img src="img/valiant.PNG" style="width: 150px; border-radius: 50%;">
+
+**Name**:Jun Mark Brilliantes
+
+**Email**:202380378@psu.palawan.edu.ph
+
+<a href="https://www.facebook.com/valiant.gg"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width="30" style="border-radius:50%;"> </a>
+<a href="github.com/valiant-11"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="30" style="border-radius:50%;"> </a>
+
+
+<img src="img/angelica.PNG" style="width: 150px; border-radius: 50%;">
+
+**Name**:Angelica Bande
+
+**Email**:202380325@psu.palawan.edu.ph
+
+<a href="https://www.facebook.com/angelica.bandeii"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width="30" style="border-radius:50%;"> </a>
+<a href="github.com/angelica-11"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="30" style="border-radius:50%;"> </a>
+
+
+
