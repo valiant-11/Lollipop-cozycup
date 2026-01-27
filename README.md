@@ -7,7 +7,7 @@ Cozy Cup Cafe provides visitors with an easy way to explore our menu, learn abou
 
 • Menu: List of food and drinks with descriptions, prices, and optional images.
 
-• Contact/Location: Address, map, phone, email, business hours, and social links.
+• Contact/Location: Address, phone, email, business hours, and social links.
 
 • Online Ordering: Simple interface or link for pickup/delivery with payment options.
 
@@ -17,7 +17,7 @@ Cozy Cup Cafe provides visitors with an easy way to explore our menu, learn abou
 # Screen Captures
 Cozy Cup Cafe's Landing Page
 ![Home](img/Screenshot1.PNG)
-Cozy Cup Cafe's Menu (We don't have any serving YET!!)
+Cozy Cup Cafe's Menu
 ![Menu](img/Screenshot2.PNG)
 Cozy Cup Cafe's Creators
 ![AboutUs](img/Screenshot3.PNG)
